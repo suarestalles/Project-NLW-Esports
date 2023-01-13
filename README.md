@@ -14,4 +14,4 @@ Projeto construído do evento Next Level Week da Roscketseat
 - Git e GitHub
 
 ## Contato
-- suarestalles48@gmail.com
+- tallessuares48@gmail.com
